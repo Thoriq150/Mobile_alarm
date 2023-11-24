@@ -1,0 +1,9 @@
+<!-- splash_logo.xml -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+       />
+
+    <item
+        android:src="@drawable/robot"
+        />
+</layer-list>
